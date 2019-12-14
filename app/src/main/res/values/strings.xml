@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Catatan Hutang</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_nominal">Nominal</string>
+    <string name="title_pembelian">Nama Pemberi Hutang</string>
+    <string name="title_simpan">Simpan</string>
+    <string name="title_pengeluaran">Total Hutang Anda</string>
+    <string name="appwidget_text">Catatan Hutang</string>
+    <string name="add_widget">Add widget</string>
+</resources>
